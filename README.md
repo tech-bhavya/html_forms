@@ -1,2 +1,2 @@
 # Women In Coding
-Submission 1: html_forms
+Submission 1: Basic HTML Form
